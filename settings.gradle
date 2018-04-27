@@ -1,0 +1,1 @@
+include ':app', ':javaPoet', ':myAnnotation', ':myAnnotationComplie', ':myAnnotationApi'
